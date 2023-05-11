@@ -1,0 +1,25 @@
+[33mcommit 34cbd97dabf62e15f2d8cd79d9658204f52bbb69[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/main_function[m[33m, [m[1;31morigin/feature/main_function[m[33m)[m
+Author: daniel <tishakovdanyilgmail.com>
+Date:   Thu May 11 10:24:28 2023 +0100
+
+    add main function
+
+[33mcommit 64abe1bdaa0bd853d7b2aff9309684dc3ca5d67e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: DanielUA <110521917+DanielUA@users.noreply.github.com>
+Date:   Thu May 11 10:09:59 2023 +0100
+
+    Update README.md
+    
+    init
+
+[33mcommit 2380b29bc8b320750714dff1fd4e915e4d56edc1[m
+Author: daniel <tishakovdanyilgmail.com>
+Date:   Thu May 11 10:02:41 2023 +0100
+
+    init commit
+
+[33mcommit 07a54dc8d7f166d0ed8c7140325298658c3bd87e[m
+Author: DanielUA <110521917+DanielUA@users.noreply.github.com>
+Date:   Thu May 11 09:56:20 2023 +0100
+
+    Initial commit
